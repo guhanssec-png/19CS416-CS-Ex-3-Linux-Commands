@@ -1,3 +1,4 @@
+<img width="1012" height="698" alt="644792277-4a93677c-43c3-4258-9bea-0d187aceb3dd" src="https://github.com/user-attachments/assets/e2a9ee34-66ca-411e-a425-53cbbc0a7b51" />
 # 19CS416-CS-Ex-3-Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
@@ -336,5 +337,9 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+<img width="1012" height="698" alt="644792277-4a93677c-43c3-4258-9bea-0d187aceb3dd" src="https://github.com/user-attachments/assets/16ff04d7-216c-4ada-9572-c40add856814" />
+
+<img width="743" height="577" alt="644792599-2abe02cc-9a7b-41c1-b16e-d02a5e7c5be0" src="https://github.com/user-attachments/assets/fa2e9e28-7ef2-4274-b34e-c600d2039ce6" />
 
 ## Result
+Oracle VirtualBox was installed successfully, Kali Linux was configured successfully, and basic Linux commands were executed successfully.
